@@ -1,14 +1,14 @@
 ---
-title: "Alaska | June 2022 | Norwegian Sun"
-date: 2019-05-14T14:46:10+06:00
+title: "Alaska | June 2022 | Cruise"
+date: 2022-06-01
 description: "This is meta description"
 type: "post"
 image: "images/202206Alaska/IMG_20220602_125842380_HDR.jpg"
 categories: 
-  - "Food"
+  - "Cruise"
 tags:
-  - "Photos"
-  - "Food"
+  - "2022"
+  - "Alaska"
 ---
 
 Test This...Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
