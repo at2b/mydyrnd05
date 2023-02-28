@@ -1,7 +1,7 @@
 ---
 mdStatus: "Active"
 mdVersion: "10"
-title: "Alaska | 2022 June"
+title: "Alaska | June 2022"
 date: 2022-06-01
 description: "This is meta description"
 type: "featured"
