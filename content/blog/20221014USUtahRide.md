@@ -16,10 +16,11 @@ tags:
 <h4>	
 	Google My Maps | 9-Days 9-Rides
 </h4>	
-<div class="embed-responsive embed-responsive-16by9">	
+<div class="embed-responsive embed-responsive-1by1">	
    <iframe 	
         src=	"https://www.google.com/maps/d/embed?mid=1Vy57Pgv5k-dScUpDXK3kk9FJSpNugoM&ehbc=2E312F"
         title=	"Google My Maps"
+        loading="lazy"
     > 	
     </iframe>	
 </div>	
@@ -59,6 +60,7 @@ tags:
     <img 	
       src=	"/images/202210Utah/IMG_20221012_103746351_HDR240085.jpg"
       alt=	"Ellensburg Brake and Bearing"
+      loading= "lazy"
     >	
 </p>
 <!-- End ******************** Item01 ******************** End -->	
@@ -86,6 +88,7 @@ tags:
     <img 	
         src=	"/images/202210Utah/IMG_20221013_181331605_HDR240085.jpg"
         alt=	"The Greenwell Inn"
+        loading= "lazy"
     >	
 </p>
 <!-- End ******************** Item02 ******************** End -->	
@@ -119,24 +122,28 @@ tags:
     <img 	
         src=	"/images/202210Utah/IMG_20221014_130650450_HDR240085.jpg"
         alt=	"Sun Outdoors North"
+        loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221014_144953331_HDR240085.jpg"
         alt=	"Sun Outdoors North"
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221014_174130958_HDR240085.jpg"
         alt=	"Courthouse Towers"
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221014_174312819_HDR240085.jpg"
         alt=	"Courthouse Towers"
+        loading= "lazy"
     >	
 </p>		
 <!-- End ******************** Item03 ******************** End -->	
@@ -166,18 +173,21 @@ tags:
     <img 	
         src=	"/images/202210Utah/202210Day4LaSalLoop.jpeg"
         alt=	"La Sal Loop"
+        loading= "lazy"
     >	
 </p>	
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221015_112958489_240085.jpg"
         alt=	"La Sal Loop"
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221015_123933028_240085.jpg"
         alt=	"La Sal Loop"
+        loading= "lazy"
     >	
 </p>		
 <!-- End ******************** Item04 ******************** End -->	
@@ -200,30 +210,35 @@ tags:
     <img 	
         src=	"/images/202210Utah/202210Day05UtahWhiteRim.jpeg"
         alt=	"White Rim Trail"
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221016_161412253_HDR240085.jpg"
         alt=	"White Rim Trail"
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221016_104059192_HDR240085.jpg"
         alt=	"Shafer switchbacks White Rim Trail"
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221016_130450952_HDR240085.jpg"
         alt=	"White Rim Trail"
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221016_153527957_HDR240085.jpg"
         alt=	"White Rim Trail"
+        loading= "lazy"
     >	
 </p>		
 <!-- End ******************** Item05 ******************** End -->
@@ -253,12 +268,14 @@ tags:
     <img 	
         src=	"/images/202210Utah/IMG_20221017_140552231_80085.jpg"
         alt=	"La Sal Loop"
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221017_165058259_HDR_160085.jpg"
         alt=	"Woody's Tavern"
+        loading= "lazy"
     >	
 </p>		
 <!-- End ******************** Item06 ******************** End -->
@@ -281,18 +298,21 @@ tags:
     <img 	
         src=	"/images/202210Utah/202210Day07UtahGrandViewPoint.jpeg"
         alt=	"Canyonlands National Park"
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221018_102937360_HDR_192095.jpg"
         alt=	"Grand View Point"
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221018_115007317_HDR_108095.jpg"
-        alt=	"Shafer Switchbacks"    
+        alt=	"Shafer Switchbacks"  
+        loading= "lazy"  
     >	
 </p>		
 <!-- End ******************** Item07 ******************** End -->
@@ -304,24 +324,28 @@ tags:
     <img 	
         src=	"/images/202210Utah/202210Day07UtahHellsRevenge.jpeg"
         alt=	"Hells Revenge"    
+        loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221018_140355154_HDR_192095.jpg"
         alt=	"Hells Revenge"    
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221018_133510795_HDR_192095.jpg"
         alt=	"Hells Revenge"    
+        loading= "lazy"
     >	
 </p>		
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221018_141126520_HDR_192095.jpg"
         alt=	"Hells Revenge"    
+        loading= "lazy"
     >	
 </p>		
 <!-- End ******************** Item075 ******************** End -->
@@ -345,19 +369,22 @@ tags:
 <p>
     <img 	
         src=	"/images/202210Utah/202210Day08UtahPotashGeminiBridges.jpeg"
-        alt=	"Potash"    
+        alt=	"Potash"   
+        loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221019_105819149_192085.jpg"
         alt=	"Potash"    
+        loading= "lazy"
     >	
 </p>			
 <p>	
     <img 	
         src=	"/images/202210Utah/IMG_20221019_144706039_192085.jpg"
-        alt=	"Blue Pig BBQ Ribs"    
+        alt=	"Blue Pig BBQ Ribs" 
+        loading= "lazy"   
     >	
 </p>		
 <!-- End ******************** Item075 ******************** End -->
