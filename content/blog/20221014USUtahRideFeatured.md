@@ -23,13 +23,12 @@ tags:
         loading="lazy"
     > 	
     </iframe>	
-</div>	
-<!-- End ******************** MyMap01 ******************** End -->	
+</div>		
 <p>	
   <a 
     href=https://www.google.com/maps/d/edit?mid=1Vy57Pgv5k-dScUpDXK3kk9FJSpNugoM&usp=sharing
     target="_blank">	
-    Google My Maps Utah | October 2022 - https://www.google.com/maps/...
+    Google My Maps Utah | Oct 2022 - https://www.google.com/maps/...
   </a>
 </p>
 
@@ -38,12 +37,11 @@ tags:
 
   For those who prefer a more leisurely ride, the area also offers numerous scenic routes that wind through the stunning canyons and mesas. Riding a motorcycle in Moab provides an opportunity to get up close and personal with nature and experience the freedom of the open road.
 </p>
-
-
+<!-- End ******************** MyMap01 ******************** End -->
 <!-- Start ******************** Item01 ******************** Start -->	
 <br>	
 <h4>	
-	Day 1 - Ellensburg to Boise | Oct-12
+	Day 1 - Ellensburg to Boise | Oct 12
 </h4>	
 <p>
   When experiencing brake failure on a trailer, emergency measures may include manually activating the trailer's brake controller, using a breakaway switch, or implementing auxiliary brakes. 
@@ -64,11 +62,10 @@ tags:
     >	
 </p>
 <!-- End ******************** Item01 ******************** End -->	
-
 <!-- Start ******************** Item02 ******************** Start -->	
 <br>	
 <h4>	
-	Day 2 - Boise to Price | Oct-13
+	Day 2 - Boise to Price | Oct 13
 </h4>	
 <p>	
   <a 
@@ -95,7 +92,7 @@ tags:
 <!-- Start ******************** Item03 ******************** Start -->	
 <br>	
 <h4>	
-  Day 3 - Price to Moab  | Oct-14
+  Day 3 - Price to Moab  | Oct 14
 </h4>	
 <p>	
   <a 
