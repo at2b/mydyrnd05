@@ -4,7 +4,7 @@ mdVersion: "10"
 title: "Alaska | June 2022"
 date: 2022-06-01
 description: "This is meta description"
-type: "featured"
+type: "post"
 image: "images/202206Alaska/IMG_20220604_125112023_HDR_60085.jpg"
 categories: 
   - "Cruise"
