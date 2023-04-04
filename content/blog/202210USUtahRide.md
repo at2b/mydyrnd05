@@ -28,7 +28,7 @@ tags:
   <a 
     href=https://www.google.com/maps/d/edit?mid=1Vy57Pgv5k-dScUpDXK3kk9FJSpNugoM&usp=sharing
     target="_blank">	
-    Google My Maps Utah | Oct 2022 - https://www.google.com/maps/...
+    Google My Maps - https://www.google.com/maps/...
   </a>
 </p>
 

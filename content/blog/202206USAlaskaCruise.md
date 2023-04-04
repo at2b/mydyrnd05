@@ -31,7 +31,7 @@ mdDescription: "June cruise to Alaska on the Norwegian Sun."
   <a 
     href=https://www.google.com/maps/d/edit?mid=1uCSl3Hf9lG9KhiA4f7pXLCNO6rGKmTY&usp=sharing
     target="_blank">	
-    Google My Maps Alaska | June 2022 - https://www.google.com/maps/...
+    Google My Maps - https://www.google.com/maps/...
   </a>
 </p>
 
