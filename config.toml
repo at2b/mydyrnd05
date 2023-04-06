@@ -3,7 +3,7 @@ baseurl = "https://mydyrnd05.web.app/"
 languageCode = "en-us"
 title = "My Day Round | MDR Log"
 theme = "parsa-hugo"
-summaryLength = "10"
+summaryLength = "15"
 paginate = 6
 # google analytics
 googleAnalytics = "" # example : UA-123-45
@@ -52,17 +52,17 @@ link = "plugins/search/search.js"
 name = "Homepage"
 url = ""
 weight = 1
-hasChildren = true
+#hasChildren = true
 
-[[menu.main]]
-parent = "Homepage"
-name = "Homepage 1"
-url = "homepage/home-1/"
+#[[menu.main]]
+#parent = "Homepage"
+#name = "Homepage 1"
+#url = "homepage/home-1/"
 
-[[menu.main]]
-parent = "Homepage"
-name = "Homepage 2"
-url = "homepage/home-2/"
+#[[menu.main]]
+#parent = "Homepage"
+#name = "Homepage 2"
+#url = "homepage/home-2/"
 
 [[menu.main]]
 name = "About"
@@ -79,7 +79,7 @@ weight = 3
 logo = "images/logo.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
-layout = "1"
+layout = "2"
 # Meta data
 description = "This is meta description"
 # Preloader

@@ -17,7 +17,7 @@ mdDescription: "June cruise to Alaska on the Norwegian Sun."
 <!-- Start ******************** MyMap01 ******************** Start -->	
 <br>	
 <h4>	
-	Google My Maps | 9-Days with 7 ports of call
+	Google My Maps | 9-Days with 7 ports of call - 
 </h4>	
 <div class="embed-responsive embed-responsive-1by1">	
    <iframe 	
@@ -27,20 +27,8 @@ mdDescription: "June cruise to Alaska on the Norwegian Sun."
     > 	
     </iframe>	
 </div>	
-<p>	
-  <a 
-    href=https://www.google.com/maps/d/edit?mid=1uCSl3Hf9lG9KhiA4f7pXLCNO6rGKmTY&usp=sharing
-    target="_blank">	
-    Google My Maps - https://www.google.com/maps/...
-  </a>
-</p>
-
 <p>
  A Norwegian Cruise Line cruise to Alaska is an extraordinary adventure for anyone who loves the beauty of nature, rugged landscapes, and incredible wildlife. The journey begins in Seattle, and after a day at sea, the ship glides into the breathtaking beauty of the Inside Passage. The route takes you through the glacier-carved fjords, where you can witness the massive ice formations and witness the calving of glaciers, which is an incredible sight.
-
-The trip also features several ports of call, including the historic gold rush town of Skagway, where you can hike the scenic Chilkoot Trail or take a scenic train ride through the mountains. You can also explore the charming town of Ketchikan, which is famous for its totem poles and abundant salmon runs.
-
-The Norwegian Cruise Line ships offer luxurious accommodations, world-class dining, and a variety of onboard activities that cater to all ages. The cruise to Alaska is a unique opportunity to experience the wonders of nature and make unforgettable memories with your loved ones.
 </p>
 <!-- End ******************** MyMap01 ******************** End -->
 <!-- Start ******************** Item01 ******************** Start -->	

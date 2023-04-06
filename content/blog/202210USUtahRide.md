@@ -14,7 +14,7 @@ tags:
 <!-- Start ******************** MyMap01 ******************** Start -->	
 <br>	
 <h4>	
-	Google My Maps | 9-Days 9-Rides
+	Google My Maps | 9-Days 9-Rides - 
 </h4>	
 <div class="embed-responsive embed-responsive-1by1">	
    <iframe 	
@@ -24,18 +24,8 @@ tags:
     > 	
     </iframe>	
 </div>		
-<p>	
-  <a 
-    href=https://www.google.com/maps/d/edit?mid=1Vy57Pgv5k-dScUpDXK3kk9FJSpNugoM&usp=sharing
-    target="_blank">	
-    Google My Maps - https://www.google.com/maps/...
-  </a>
-</p>
-
 <p>
   Riding motorcycles in Moab, Utah is an unforgettable experience for adventure-seekers and outdoor enthusiasts. Moab is a mecca for off-road riding with its rugged terrain and breathtaking landscapes that range from towering red rock formations to vast desert expanses. The town is surrounded by several iconic riding areas, including the famous Hells Revenge Trail, which offers a challenging and technical ride for experienced riders.
-
-  For those who prefer a more leisurely ride, the area also offers numerous scenic routes that wind through the stunning canyons and mesas. Riding a motorcycle in Moab provides an opportunity to get up close and personal with nature and experience the freedom of the open road.
 </p>
 <!-- End ******************** MyMap01 ******************** End -->
 <!-- Start ******************** Item01 ******************** Start -->	

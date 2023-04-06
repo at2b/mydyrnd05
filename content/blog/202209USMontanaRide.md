@@ -14,7 +14,7 @@ tags:
 <!-- Start ******************** MyMap01 ******************** Start -->	
 <br>	
 <h4>	
-	Google My Maps | 3-Days 3-Rides
+	Google My Maps | 3-Days 3-Rides -
 </h4>	
 <div class="embed-responsive embed-responsive-1by1">	
    <iframe 	
@@ -23,17 +23,9 @@ tags:
         loading="lazy"
     > 	
     </iframe>	
-</div>		
-<p>	
-  <a 
-    href=https://www.google.com/maps/d/edit?mid=1RZ4O9ZfpgdtTgteHKQwIGdIlMiCqiHE&usp=sharing
-    target="_blank">	
-    Google My Maps - https://www.google.com/maps/...
-  </a>
-</p>
-
+</div>
 <p>
-  Riding motorcycles in ...
+  Riding a motorcycle through Montana is an experience like no other. The wide-open roads, surrounded by breathtaking scenery, create a sense of freedom and adventure that is hard to match. The landscapes are vast and diverse, ranging from snow-capped mountains to rolling hills and prairies. For motorcycle enthusiasts, Montana is a must-ride destination that will leave you craving for more.
 <!-- End ******************** MyMap01 ******************** End -->
 <!-- Start ******************** Item01 ******************** Start -->	
 <br>	
@@ -143,13 +135,6 @@ tags:
 <h4>	
 	Day 3 - Sacheen to Ellensburg | Sept 18
 </h4>	
-<p>	
-  <a 
-    href=http://www.theperfectassh.com/
-    target="_blank">	
-    The Perfect Assh - http://www.theperfectassh.com/
-  </a>
-</p>
 <p>	
   <a 
     href=http://kalispelcasino.com/
