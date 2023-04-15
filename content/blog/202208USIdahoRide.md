@@ -1,6 +1,6 @@
 ---
-title: "Montana | Sept 2022"
-date: 2022-09-16
+title: "Idaho BDR | August 2022 "
+date: 2022-08-01
 description: "This is meta description"
 type: "post"
 image: "images/202209Montana/IMG_20220916_142815079_HDR240085.jpg"
@@ -14,24 +14,26 @@ tags:
 <!-- Start ******************** MyMap01 ******************** Start -->	
 <br>	
 <h4>	
-	Google My Maps | 3-Days 3-Rides -
+	Google My Maps | 4-Days 4-Rides -
 </h4>	
 <div class="embed-responsive embed-responsive-1by1">	
    <iframe 	
-        src=	"https://www.google.com/maps/d/embed?mid=1RZ4O9ZfpgdtTgteHKQwIGdIlMiCqiHE&ehbc=2E312F"
+        src=	"https://www.google.com/maps/d/embed?mid=1U7XdtpLyvpe7Z26WKMkMqiwSgHLBmgw&ehbc=2E312F"
         title=	"Google My Maps"
         loading="lazy"
     > 	
     </iframe>	
 </div>
 <p>
-  Riding a motorcycle through Montana is an experience like no other. The wide-open roads, surrounded by breathtaking scenery, create a sense of freedom and adventure that is hard to match. The landscapes are vast and diverse, ranging from snow-capped mountains to rolling hills and prairies. For motorcycle enthusiasts, Montana is a must-ride destination that will leave you craving for more.
+The Idaho Backroads Discovery Route is a scenic route that spans over 1,200 miles of dirt and gravel roads, offering adventurous travelers a unique experience of the state's rugged and beautiful landscapes. The route takes you through remote areas of Idaho, passing by ghost towns, historic sites, and natural wonders such as hot springs, waterfalls, and mountain ranges.
+
+The Idaho Backroads Discovery Route is not for the faint of heart, as some of the roads can be challenging, especially during inclement weather. However, the reward for those who embark on this journey is a glimpse into the state's rich history and diverse terrain.
 </p>
 <!-- End ******************** MyMap01 ******************** End -->
 <!-- Start ******************** Item01 ******************** Start -->	
 <br>	
 <h4>	
-	Day 1 - Ellensburg to Sacheen | Sept 16
+	Day 1 - Ellensburg to Bonners Ferry | July 31
 </h4>	
 <p>	
   <a 
@@ -56,7 +58,7 @@ tags:
 </p>
 <p>	
     <img 	
-      src=	"/images/202209Montana/IMG_20220916_111842333_HDR240085.jpg"
+      src=	"/images/202208Idaho/IMG_20220731_092959282_HDR240085.jpg"
       alt=	"Ellensburg to Sacheen"
       loading= "lazy"
     >	
