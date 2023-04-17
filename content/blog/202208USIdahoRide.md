@@ -1,14 +1,15 @@
 ---
-title: "Idaho BDR | August 2022 "
+title: "Idaho BDR | August 2022"
 date: 2022-08-01
-description: "This is meta description"
+description: "Idaho BDR | August 2022"
 type: "post"
 image: "images/202209Montana/IMG_20220916_142815079_HDR240085.jpg"
 categories: 
   - "Ride"
 tags:
-  - "Montana"
+  - "Idaho"
   - "2022"
+  - "BDR"
 ---
 
 <!-- Start ******************** MyMap01 ******************** Start -->	
@@ -37,155 +38,166 @@ The Idaho Backroads Discovery Route is not for the faint of heart, as some of th
 </h4>	
 <p>	
   <a 
-    href=http://www.midstatefarmsupply.com/
+    href=https://www.ellensburgdowntown.org/
     target="_blank">	
-    Midstate Co-Op - http://www.midstatefarmsupply.com/
+    Ellensburg - https://www.ellensburgdowntown.org/
   </a>
 </p>
 <p>	
   <a 
-    href=https://spokanetribecasino.com/
+    href=https://www.spokaneriver.net/watertrail/park-details/?parkID=3201
     target="_blank">	
-    Spokane Tribe Casino - https://spokanetribecasino.com/
+    Long Lake Dam Picnic Area - https://www.spokaneriver.net/watertrail/park-details/?parkID=3201
   </a>
 </p>
 <p>	
   <a 
-    href=https://wdfw.wa.gov/places-to-go/water-access-sites/30430
+    href=https://www.facebook.com/BigfootSpokane/ 
     target="_blank">	
-    Sacheen Lake Public Access - https://wdfw.wa.gov/places-to-go/water-access-sites/30430
+    Bigfoot Pub & Eatery - https://www.facebook.com/BigfootSpokane/ 
   </a>
 </p>
 <p>	
     <img 	
       src=	"/images/202208Idaho/IMG_20220731_092959282_HDR240085.jpg"
-      alt=	"Ellensburg to Sacheen"
+      alt=	"Ellensburg to Bonners Ferry"
       loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
-      src=	"/images/202209Montana/IMG_20220916_142815079_HDR240085.jpg"
-      alt=	"Ellensburg to Sacheen"
+      src=	"/images/202208Idaho/IMG_20220731_142122600_HDR240085.jpg"
+      alt=	"Ellensburg to Bonners Ferry"
       loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
-      src=	"/images/202209Montana/IMG_20220916_161927064_HDR240085.jpg"
-      alt=	"Ellensburg to Sacheen"
-      loading= "lazy"
-    >	
-</p>
-<p>	
-    <img 	
-      src=	"/images/202209Montana/IMG_20220917_093334345_HDR240085.jpg"
-      alt=	"Ellensburg to Sacheen"
+      src=	"/images/202208Idaho/IMG_20220731_175526591_240085.jpg"
+      alt=	"Ellensburg to Bonners Ferry"
       loading= "lazy"
     >	
 </p>
 <!-- End ******************** Item01 ******************** End -->	
 <!-- Start ******************** Item02 ******************** Start -->	
 <br>	
-<h4>	
-	Day 2 - Sacheen to Libby Loop | Sept 17
+<h4>
+	Day 2 - Canadian Border to Sam Owen | August 01
 </h4>	
 <p>	
   <a 
-    href=http://www.theperfectassh.com/
+    href=https://ridebdr.com/idbdr/
     target="_blank">	
-    The Perfect Assh - http://www.theperfectassh.com/
+    IDAHO BACKCOUNTRY DISCOVERY ROUTE - https://ridebdr.com/idbdr/
   </a>
 </p>
 <p>	
   <a 
-    href=https://www.bestwestern.com/en_US/book/hotels-in-bonners-ferry/best-western-plus-kootenai-river-inn-casino-spa/propertyCode.13044.html
+    href=https://www.idahoconservation.org/plan-your-own-adventure/roman-nose-lakes/
     target="_blank">	
-    Best Western Plus Kootenai River Inn Casino & Spa - https://www.bestwestern.com/en_US/book/hotels-in-bonners-ferry/best-western-plus-kootenai-river-inn-casino-spa/propertyCode.13044.html
+    Roman Nose Lakes - https://www.idahoconservation.org/plan-your-own-adventure/roman-nose-lakes/
   </a>
 </p>
 <p>	
   <a 
-    href=https://www.kellys1894.com/
+    href=https://www.recreation.gov/camping/campgrounds/232202
     target="_blank">	
-    Kelly's Bar & Grill - https://www.kellys1894.com/
+    Sam Owen Campground - https://www.recreation.gov/camping/campgrounds/232202
   </a>
 </p>
 <p>	
     <img 	
-      src=	"/images/202209Montana/IMG_20220917_150444457_HDR240085.jpg"
-      alt=	"Sacheen to Libby Loop"
+      src=	"/images/202208Idaho/IMG_20220801_092214206_HDR (1920x1080x75).jpg"
+      alt=	"Canada to Sam Owen"
       loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
-      src=	"/images/202209Montana/IMG_20220917_152610755_HDR240085.jpg"
-      alt=	"Sacheen to Libby Loop"
+      src=	"/images/202208Idaho/IMG_20220801_113927691 (1920x1080x75).jpg"
+      alt=	"Canada to Sam Owen"
       loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
-      src=	"/images/202209Montana/IMG_20220917_183444291_HDR240085.jpg"
-      alt=	"Sacheen to Libby Loop"
+      src=	"/images/202208Idaho/IMG_20220801_120320404_HDR (1920x1080x75).jpg"
+      alt=	"Canada to Sam Owen"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+    <img 	
+      src=	"/images/202208Idaho/IMG_20220801_201232822_HDR (1920x1080x75).jpg"
+      alt=	"Canada to Sam Owen"
       loading= "lazy"
     >	
 </p>
 <!-- End ******************** Item02 ******************** End -->
 <!-- Start ******************** Item03 ******************** Start -->	
 <br>	
-<h4>	
-	Day 3 - Sacheen to Ellensburg | Sept 18
+<h4>
+	Day 3 - Sam Owen to Wallace | August 02
 </h4>	
 <p>	
   <a 
-    href=http://kalispelcasino.com/
+    href=https://www.fs.usda.gov/recarea/ipnf/recarea/?recid=6817
     target="_blank">	
-    Kalispel Casino - http://kalispelcasino.com/
+    Lunch Peak Lookout - https://www.fs.usda.gov/recarea/ipnf/recarea/?recid=6817
   </a>
 </p>
 <p>	
-  <a 
-    href=https://t-js-tavern.business.site
-    target="_blank">	
-    T J's Tavern - https://t-js-tavern.business.site
-  </a>
+    Coeur D'Alene River Cliff Jumping - 
 </p>
-<p>	
-  <a 
-    href=https://goo.gl/maps/8tvFL69RqjF3mDrBA
-    target="_blank">	
-    White Mountain Viewpoint - https://goo.gl/maps/8tvFL69RqjF3mDrBA
-  </a>
-</p>
-
 <p>	
     <img 	
-      src=	"/images/202209Montana/IMG_20220918_101610478_HDR240085.jpg"
-      alt=	"Sacheen to Ellensburg"
+      src=	"/images/202208Idaho/IMG_20220802_090439136_HDR (1920x1080x75).jpg"
+      alt=	"Sam Owen to Wallace"
       loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
-      src=	"/images/202209Montana/IMG_20220918_125438756_HDR240085.jpg"
-      alt=	"Sacheen to Ellensburg"
+      src=	"/images/202208Idaho/IMG_20220802_095027705_HDR (1920x1080x75).jpg"
+      alt=	"Sam Owen to Wallace"
       loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
-      src=	"/images/202209Montana/IMG_20220918_133241754_HDR240085.jpg"
-      alt=	"Sacheen to Ellensburg"
-      loading= "lazy"
-    >	
-</p>
-<p>	
-    <img 	
-      src=	"/images/202209Montana/IMG_20220918_141015054_HDR240085.jpg"
-      alt=	"Sacheen to Ellensburg"
+      src=	"/images/202208Idaho/IMG_20220802_154558505_HDR (1920x1080x75).jpg"
+      alt=	"Sam Owen to Wallace"
       loading= "lazy"
     >	
 </p>
 <!-- End ******************** Item03 ******************** End -->
+<!-- Start ******************** Item04 ******************** Start -->	
+<br>	
+<h4>
+	Day 4 - Wallace to Coeur d'Alene | August 03
+</h4>	
+<p>
+  J and E Stop, Clarkia
+</p>
+<p>	
+  <a 
+    href=https://rokkosteriyaki.net/
+    target="_blank">	
+    Rokkos $1 Dollar Beers - https://rokkosteriyaki.net/
+  </a>
+</p>
+<p>	
+    <img 	
+      src=	"/images/202208Idaho/IMG_20220803_183112097_HDR (1920x1080x75).jpg"
+      alt=	"Wallace to Coeur d'Alene"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+    <img 	
+      src=	"/images/202208Idaho/IMG_20220803_185343297_HDR (1920x1080x75).jpg"
+      alt=	"Wallace to Coeur d'Alene"
+      loading= "lazy"
+    >	
+</p>
+<!-- End ******************** Item04 ******************** End -->
