@@ -47,7 +47,7 @@ The Idaho Backroads Discovery Route is not for the faint of heart, as some of th
   <a 
     href=https://www.spokaneriver.net/watertrail/park-details/?parkID=3201
     target="_blank">	
-    Long Lake Dam Picnic Area - https://www.spokaneriver.net/watertrail/park-details/?parkID=3201
+    Long Lake Dam Picnic Area - https://www.spokaneriver.net/...
   </a>
 </p>
 <p>	
@@ -95,14 +95,14 @@ The Idaho Backroads Discovery Route is not for the faint of heart, as some of th
   <a 
     href=https://www.idahoconservation.org/plan-your-own-adventure/roman-nose-lakes/
     target="_blank">	
-    Roman Nose Lakes - https://www.idahoconservation.org/plan-your-own-adventure/roman-nose-lakes/
+    Roman Nose Lakes - https://www.idahoconservation.org/...
   </a>
 </p>
 <p>	
   <a 
     href=https://www.recreation.gov/camping/campgrounds/232202
     target="_blank">	
-    Sam Owen Campground - https://www.recreation.gov/camping/campgrounds/232202
+    Sam Owen Campground - https://www.recreation.gov/...
   </a>
 </p>
 <p>	
@@ -143,7 +143,7 @@ The Idaho Backroads Discovery Route is not for the faint of heart, as some of th
   <a 
     href=https://www.fs.usda.gov/recarea/ipnf/recarea/?recid=6817
     target="_blank">	
-    Lunch Peak Lookout - https://www.fs.usda.gov/recarea/ipnf/recarea/?recid=6817
+    Lunch Peak Lookout - https://www.fs.usda.gov/...
   </a>
 </p>
 <p>	
