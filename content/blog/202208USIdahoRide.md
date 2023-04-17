@@ -3,7 +3,7 @@ title: "Idaho BDR | August 2022"
 date: 2022-08-01
 description: "Idaho BDR | August 2022"
 type: "post"
-image: "images/202209Montana/IMG_20220916_142815079_HDR240085.jpg"
+image: "/images/202208Idaho/IMG_20220801_092214206_HDR (1920x1080x75).jpg"
 categories: 
   - "Ride"
 tags:
