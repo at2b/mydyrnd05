@@ -88,23 +88,65 @@ Riding a motorcycle through Glacier National Park is an unforgettable experience
   </a>
 </p>
 <p>	
+  <a 
+    href=https://www.nps.gov/glac/planyourvisit/loganpass.htm
+    target="_blank">	
+     Logan Pass - https://www.nps.gov/glac/planyourvisit/loganpass.htm
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.usparklodging.com/glacier/many.php
+    target="_blank">	
+     Many Glacier (Swiftcurrent Lake) - https://www.usparklodging.com/glacier/many.php
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.thenorthernlightssaloon.com/
+    target="_blank">	
+     Polebridge Saloon- https://www.thenorthernlightssaloon.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://polebridgemerc.com/
+    target="_blank">	
+     Polebridge Mercantile - https://polebridgemerc.com/
+  </a>
+</p>
+<p>	
     <img 	
       src=	"/images/201707USMontanaRide/IMG_20170728_055903949_1920x1080x75.jpg"
-      alt=	"Whitefish"
+      alt=	"Glacier National Park"
       loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
       src=	"/images/201707USMontanaRide/IMG_20170728_084307651_1920x1080x75.jpg"
-      alt=	"Whitefish"
+      alt=	"Glacier National Park"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+    <img 	
+      src=	"/images/201707USMontanaRide/IMG_20170728_130203183_HDR_1920x1080x75.jpg"
+      alt=	"Glacier National Park"
       loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
       src=	"/images/201707USMontanaRide/IMG_20170728_112741073_1920x1080x75.jpg"
-      alt=	"Whitefish"
+      alt=	"Glacier National Park"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+    <img 	
+      src=	"/images/201707USMontanaRide/IMG_20170728_155145691_TOP_1920x1080x75.jpg"
+      alt=	"Glacier National Park"
       loading= "lazy"
     >	
 </p>
