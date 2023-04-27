@@ -81,6 +81,13 @@ Riding a motorcycle through Glacier National Park is an unforgettable experience
 	Day 3 - Glacier National Park | July 28
 </h4>	
 <p>	
+    <img 	
+      src=	"/images/201707USMontanaRide/Day3GlacierNationalPark.jpg"
+      alt=	"Glacier National Park"
+      loading= "lazy"
+    >	
+</p>
+<p>	
   <a 
     href=https://www.nps.gov/glac/index.htm
     target="_blank">	
