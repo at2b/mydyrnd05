@@ -1,6 +1,6 @@
 ---
 title: "Montana | July 2017"
-date: 2017-07-26
+date: 2019-07-26
 description: "This is meta description"
 type: "post"
 image: "images/201707USMontanaRide/IMG_20170729_140753385_HDR_1920x1080x75.jpg"
@@ -14,7 +14,7 @@ tags:
 <!-- Start ******************** MyMap01 ******************** Start -->	
 <br>	
 <h4>	
-	Google My Maps | Ride Glacier National Park
+	Google My Maps | Glacier National Park -
 </h4>	
 <div class="embed-responsive embed-responsive-1by1">	
    <iframe 	
