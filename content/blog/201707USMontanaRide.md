@@ -1,6 +1,6 @@
 ---
 title: "Montana | July 2017"
-date: 2019-07-26
+date: 2017-07-26
 description: "This is meta description"
 type: "post"
 image: "images/201707USMontanaRide/IMG_20170729_140753385_HDR_1920x1080x75.jpg"
@@ -158,3 +158,23 @@ Riding a motorcycle through Glacier National Park is an unforgettable experience
     >	
 </p>
 <!-- End ******************** Item03 ******************** End -->	
+<!-- Start ******************** Item04 ******************** Start -->	
+<br>	
+<h4>	
+	Day 4 & 5 - Kalispell to Ellensburg | July 29 & 30
+</h4>	
+<p>	
+  <a 
+    href=https://explorewhitefish.com/
+    target="_blank">	
+    Whitefish Montana - https://explorewhitefish.com/
+  </a>
+</p>
+<p>	
+    <img 	
+      src=	"/images/201707USMontanaRide/IMG_20170727_145658388_HDR_1920x1080x75.jpg"
+      alt=	"Whitefish"
+      loading= "lazy"
+    >	
+</p>
+<!-- End ******************** Item04 ******************** End -->	

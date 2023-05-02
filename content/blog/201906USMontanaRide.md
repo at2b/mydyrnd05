@@ -38,15 +38,43 @@ Add text here
 </h4>	
 <p>	
   <a 
-    href=https://moosessaloon.com/
+    href=https://www.ellensburgdowntown.org/
     target="_blank">	
-    Moose's Saloon - https://moosessaloon.com/
+    Ellensburg - https://www.ellensburgdowntown.org/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.parks.wa.gov/559/Palouse-Falls-State-Park-Heritage-Site
+    target="_blank">	
+    Palouse Falls - https://www.parks.wa.gov/559/Palouse-Falls-State-Park-Heritage-Site
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://thelastresortrv.com/wpi/
+    target="_blank">	
+    The Last Resort - https://thelastresortrv.com/wpi/
   </a>
 </p>
 <p>	
     <img 	
-      src=	"/images/201707USMontanaRide/IMG_20170726_121134758_Custom.jpg"
-      alt=	"Ellensburg to Kalispell"
+      src=	"/images/201906USMontanaRide/IMG_20190618_134807368_1920x1080x75.jpg"
+      alt=	"Ellensburg to Pomeroy"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+    <img 	
+      src=	"/images/201906USMontanaRide/IMG_20190618_134858474_1920x1080x75.jpg"
+      alt=	"Ellensburg to Pomeroy"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+    <img 	
+      src=	"/images/201906USMontanaRide/IMG_20190619_084714348_1920x1080x75.jpg"
+      alt=	"Ellensburg to Pomeroy"
       loading= "lazy"
     >	
 </p>
