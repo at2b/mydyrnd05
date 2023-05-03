@@ -86,15 +86,29 @@ Add text here
 </h4>	
 <p>	
   <a 
-    href=https://moosessaloon.com/
+    href=https://www.facebook.com/Hazelsgoodeats/
     target="_blank">	
-    Moose's Saloon - https://moosessaloon.com/
+    Hazels Good Eats - https://www.facebook.com/Hazelsgoodeats/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.lololodge.net/
+    target="_blank">	
+    Lolo Lodge - https://www.lololodge.net/
   </a>
 </p>
 <p>	
     <img 	
-      src=	"/images/201707USMontanaRide/IMG_20170726_121134758_Custom.jpg"
-      alt=	"Ellensburg to Kalispell"
+      src=	"/images/201906USMontanaRide/IMG_20190619_115619922_1920x1080x75.jpg"
+      alt=	"Pomeroy to Lolo"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+    <img 	
+      src=	"/images/201906USMontanaRide/IMG_20190619_172312926_HDR_1920x1080x75.jpg"
+      alt=	"Pomeroy to Lolo"
       loading= "lazy"
     >	
 </p>
@@ -113,8 +127,8 @@ Add text here
 </p>
 <p>	
     <img 	
-      src=	"/images/201707USMontanaRide/IMG_20170726_121134758_Custom.jpg"
-      alt=	"Ellensburg to Kalispell"
+      src=	"/images/201707USMontanaRide/IMG_20190619_115619922_1920x1080x75.jpg"
+      alt=	"Lolo to Sandpoint"
       loading= "lazy"
     >	
 </p>
