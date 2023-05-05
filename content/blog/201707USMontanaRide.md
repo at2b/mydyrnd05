@@ -165,6 +165,13 @@ Riding a motorcycle through Glacier National Park is an unforgettable experience
 </h4>	
 <p>	
   <a 
+    href=https://www.google.com/maps/place/Barber+Shop+Beer+Parlor/@47.6088011,-114.6700502,17z/data=!4m6!3m5!1s0x536747a0db5c8f61:0xd8e9010bcba8aa31!8m2!3d47.6088011!4d-114.6700502!16s%2Fg%2F11c55xdhp5
+    target="_blank">	
+    Barber Shop Beer Parlor  - https://www.google.com/maps/...
+  </a>
+</p>
+<p>	
+  <a 
     href=https://www.facebook.com/IoneDownRiverDays/
     target="_blank">	
     Ione Down River Days  - https://www.facebook.com/IoneDownRiverDays/
@@ -207,15 +214,22 @@ Riding a motorcycle through Glacier National Park is an unforgettable experience
 </h4>	
 <p>	
   <a 
-    href=https://explorewhitefish.com/
+    href=https://www.kristalls.com/
     target="_blank">	
-    Whitefish Montana - https://explorewhitefish.com/
+    Kristalls Full Bar in the morning - https://www.kristalls.com/
   </a>
 </p>
 <p>	
     <img 	
-      src=	"/images/201707USMontanaRide/IMG_20170729_112808413_1920x1080x75.jpg"
-      alt=	"Kalispell to Ellensburg"
+      src=	"/images/201707USMontanaRide/IMG_20170731_100428019_HDR_1920x1080x75.jpg"
+      alt=	"Wilbur to Ellensburg"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+    <img 	
+      src=	"/images/201707USMontanaRide/IMG_20170731_122709775_HDR_1920x1080x75.jpg"
+      alt=	"Wilbur to Ellensburg"
       loading= "lazy"
     >	
 </p>
