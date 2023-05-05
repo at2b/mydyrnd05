@@ -1,7 +1,7 @@
 ---
 title: "Montana | Sept 2022"
 date: 2022-09-16
-description: "This is meta description"
+description: "Montana | Sept 2022"
 type: "post"
 image: "images/202209Montana/IMG_20220916_142815079_HDR240085.jpg"
 categories: 

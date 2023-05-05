@@ -1,7 +1,7 @@
 ---
 title: "Utah | Oct 2022"
 date: 2022-10-14
-description: "This is meta description"
+description: "Utah | Oct 2022"
 type: "post"
 image: "images/202210Utah/IMG_20221014_174317969_HDR_80085.jpg"
 categories: 

@@ -1,7 +1,7 @@
 ---
 title: "Montana | June 2019"
 date: 2019-06-18
-description: "This is meta description"
+description: "Montana | June 2019"
 type: "post"
 image: "images/201906USMontanaRide/IMG_20190621_123332364_1920x1080x75.jpg"
 categories: 

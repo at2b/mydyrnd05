@@ -1,7 +1,7 @@
 ---
 title: "Montana | July 2017"
 date: 2017-07-26
-description: "This is meta description"
+description: "Montana | July 2017"
 type: "post"
 image: "images/201707USMontanaRide/IMG_20170729_140753385_HDR_1920x1080x75.jpg"
 categories: 
@@ -27,7 +27,7 @@ tags:
 <p>
 Riding a motorcycle through Glacier National Park is an unforgettable experience. The park's stunning scenery, including towering mountains, pristine lakes, and lush forests, is best enjoyed on two wheels. The Going-to-the-Sun Road, which winds its way through the heart of the park, is a must-ride for any motorcyclist. Be sure to take your time and enjoy the views, as this is a ride you'll never forget.
 </p>
-<!-- End ******************** MyMap01 ******************** End -->
+<!-- End ******************** MyMap01 ******************* End -->
 <!-- Start ******************** Item01 ******************** Start -->	
 <br>	
 <h4>	
