@@ -35,11 +35,27 @@ Riding a motorcycle through Glacier National Park is an unforgettable experience
 </h4>	
 <p>	
   <a 
-    href=https://moosessaloon.com/
+    href=https://www.ellensburgdowntown.org/
     target="_blank">	
-    Moose's Saloon - https://moosessaloon.com/
+    Ellensburg - https://www.ellensburgdowntown.org/
   </a>
 </p>
+<p>	
+  <a 
+    href=https://www.kellys1894.com
+    target="_blank">	
+    Kelly's Bar & Grill Saloon - https://www.kellys1894.com
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://discoverkalispell.com/tours-sightseeing/epic-motorcycle-rides-twists-and-turns-and-breathtaking-scenery/
+    target="_blank">	
+    Discover Kalispell - https://discoverkalispell.com/...
+  </a>
+</p>
+
+
 <p>	
     <img 	
       src=	"/images/201707USMontanaRide/IMG_20170726_121134758_Custom.jpg"
@@ -58,13 +74,20 @@ Riding a motorcycle through Glacier National Park is an unforgettable experience
 <!-- Start ******************** Item02 ******************** Start -->	
 <br>	
 <h4>	
-	Day 2 - Whitefish | July 27
+	Day 2 - Whitefish and Kalispell | July 27
 </h4>	
 <p>	
   <a 
     href=https://explorewhitefish.com/
     target="_blank">	
     Whitefish Montana - https://explorewhitefish.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://moosessaloon.com/
+    target="_blank">	
+    Moose's Saloon - https://moosessaloon.com/
   </a>
 </p>
 <p>	
@@ -98,14 +121,14 @@ Riding a motorcycle through Glacier National Park is an unforgettable experience
   <a 
     href=https://www.nps.gov/glac/planyourvisit/loganpass.htm
     target="_blank">	
-     Logan Pass - https://www.nps.gov/glac/planyourvisit/loganpass.htm
+     Logan Pass - https://www.nps.gov/glac/...
   </a>
 </p>
 <p>	
   <a 
     href=https://www.usparklodging.com/glacier/many.php
     target="_blank">	
-     Many Glacier (Swiftcurrent Lake) - https://www.usparklodging.com/glacier/many.php
+     Many Glacier (Swiftcurrent Lake) - https://www.usparklodging.com/glacier/...
   </a>
 </p>
 <p>	
@@ -193,7 +216,7 @@ Riding a motorcycle through Glacier National Park is an unforgettable experience
 </p>
 <p>	
     <img 	
-      src=	"/images/201707USMontanaRide/IMG_20170730_122146671_1920x1080x75.jpg"
+      src=	"/images/201707USMontanaRide/IMG_20170730_122146671_1920x1080x75_SM.jpg"
       alt=	"Kalispell to Wilbur"
       loading= "lazy"
     >	
