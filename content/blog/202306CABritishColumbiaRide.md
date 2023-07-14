@@ -25,9 +25,7 @@ tags:
     </iframe>	
 </div>
 <p>
-The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker who loves twisty roads and stunning scenery. The route starts in Creston, BC, and winds its way through the Selkirk Mountains, past Kootenay Lake, and into Nelson. Along the way, you'll be treated to some of the best riding in the world, with towering peaks, lush forests, and crystal-clear lakes.
-
-One of the highlights of the ride is the section along Highway 3A, which is considered to be one of the best motorcycle roads in British Columbia. This stretch of road is known for its endless curves and sweeping bends, which will put your skills to the test. If you're looking for a challenge, be sure to take the Kootenay Lake Ferry from Balfour to Nelson. This 45-minute ferry ride offers stunning views of the lake and the surrounding mountains.
+The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker who loves twisty roads and stunning scenery. One of the highlights of the ride is the section along Highway 3A, which is considered to be one of the best motorcycle roads in British Columbia. This stretch of road is known for its endless curves and sweeping bends.
 </p>
 <!-- End ******************** MyMap01 ******************* End -->
 <!-- Start ******************** Item01 ******************** Start -->	
@@ -46,7 +44,7 @@ One of the highlights of the ride is the section along Highway 3A, which is cons
   <a 
     href=www.shaughnessyscove.com
     target="_blank">	
-    SHAUGHNESSY’S COVE - WATERFRONT DINING IN BEAUTIFUL SUMMERLAND, BC
+    Shaughnessy's Cove Waterfront Dining Summerland, BC - www.shaughnessyscove.com
   </a>
 </p>
 <p>	
@@ -81,7 +79,7 @@ One of the highlights of the ride is the section along Highway 3A, which is cons
   <a 
     href=https://osonegrocoffee.com/
     target="_blank">	
-    Coffee - https://osonegrocoffee.com/
+    Black Bear Coffee - https://osonegrocoffee.com/
   </a>
 </p>
 <p>	
@@ -109,7 +107,7 @@ One of the highlights of the ride is the section along Highway 3A, which is cons
   <a 
     href=https://www.halfwayhotsprings.ca/
     target="_blank">	
-    Semi Developed Hot Springs - https://www.halfwayhotsprings.ca/
+    Dirt Road Hot Springs - https://www.halfwayhotsprings.ca/
   </a>
 </p>
 <p>	
@@ -126,5 +124,37 @@ One of the highlights of the ride is the section along Highway 3A, which is cons
       loading= "lazy"
     >	
 </p>
-
 <!-- End ******************** Item03 ******************** End -->
+<!-- Start ******************** Item04 ******************** Start -->	
+<br>	
+<h4>	
+	Day 4 - Nelson to Ellensburg | Hwy-25 | August 14
+</h4>	
+<p>
+The effectiveness of patching tubeless motorcycle tires depends on a number of factors, including the size and location of the puncture, the type of patch used, and the skill of the person doing the repair. However, it is important to note that a patch is not a permanent repair. The patch may eventually come loose, or the tire may develop other problems that require replacement.
+
+If you do run out of gas on your motorcycle, coast to a safe location. If you're still moving, try to coast to a safe location where you can pull over.
+</p>
+<p>	
+    <img 	
+      src=	"/images/202306CABritishColumbiaRide/IMG_20230614_075946414_1920x1080x75.jpg"
+      alt=	"Adventure Hotel"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+    <img 	
+      src=	"/images/202306CABritishColumbiaRide/IMG_20230614_121416805_HDR_1920x1080x75.jpg"
+      alt=	"Fruitland"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+    <img 	
+      src=	"/images/202306CABritishColumbiaRide/IMG_20230614_132322389_HDR_1920x1080x75.jpg"
+      alt=	"Two Rivers Resort"
+      loading= "lazy"
+    >	
+</p>
+
+<!-- End ******************** Item04 ******************** End -->
