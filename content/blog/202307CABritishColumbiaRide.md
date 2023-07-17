@@ -1,9 +1,9 @@
 ---
-title: "British Columbia | June 2023"
+title: "British Columbia | July 2023"
 date: 2023-06-11
-description: "British Columbia | June 2023"
+description: "British Columbia | July 2023"
 type: "post"
-image: "images/202306CABritishColumbiaRide/IMG_20230612_182501880_HDR_1920x1080x75.jpg"
+image: "images/202307CABritishColumbiaRide/IMG_20230629_123153680_1920x1080x75.jpg"
 categories: 
   - "Ride"
 tags:
@@ -14,11 +14,11 @@ tags:
 <!-- Start ******************** MyMap01 ******************** Start -->	
 <br>	
 <h4>	
-	Google My Maps | British Columbia | June 2023 -
+	Google My Maps | British Columbia | July 2023 -
 </h4>	
 <div class="embed-responsive embed-responsive-1by1">	
    <iframe 	
-        src="https://www.google.com/maps/d/embed?mid=11oBn_qP6SPX_1KLEfuEPFAKZvYwlvOE&ehbc=2E312F"
+        src="https://www.google.com/maps/d/embed?mid=1R-iyeG-4AUypU9GZFtxUeZRa0a0KqtU&ehbc=2E312F"
         title=	"Google My Maps"
         loading="lazy"
     > 	
@@ -31,7 +31,7 @@ The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker w
 <!-- Start ******************** Item01 ******************** Start -->	
 <br>	
 <h4>	
-	Day 1 - Ellensburg to Penticton | Highway 97 | June 11
+	Day 1 - Ellensburg to Newport | I-90 | June 29
 </h4>	
 <p>	
   <a 
@@ -49,8 +49,8 @@ The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker w
 </p>
 <p>	
     <img 	
-      src=	"/images/202306CABritishColumbiaRide/IMG_20230611_155119083_HDR_1920x1080x75.jpg"
-      alt=	"Highway 97"
+      src=	"/images/202307CABritishColumbiaRide/IMG_20230629_130307571_HDR_1920x1080x75.jpg"
+      alt=	"Ellensburg"
       loading= "lazy"
     >	
 </p>
@@ -66,7 +66,7 @@ The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker w
 <!-- Start ******************** Item02 ******************** Start -->	
 <br>	
 <h4>	
-	Day 2 - Penticton to Nelson | BC-3 | June 12
+	Day 2 - Penticton to Nelson | BC-3 | August 12
 </h4>	
 <p>	
   <a 
@@ -101,7 +101,7 @@ The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker w
 <!-- Start ******************** Item03 ******************** Start -->	
 <br>	
 <h4>	
-	Day 3 - Nelson to Nelson | BC-6 BC-31 | June 13
+	Day 3 - Nelson to Nelson | BC-6 BC-31 | August 12
 </h4>	
 <p>	
   <a 
@@ -128,7 +128,7 @@ The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker w
 <!-- Start ******************** Item04 ******************** Start -->	
 <br>	
 <h4>	
-	Day 4 - Nelson to Ellensburg | Hwy-25 | June 14
+	Day 4 - Nelson to Ellensburg | Hwy-25 | August 14
 </h4>	
 <p>
 The effectiveness of patching tubeless motorcycle tires depends on a number of factors, including the size and location of the puncture, the type of patch used, and the skill of the person doing the repair. However, it is important to note that a patch is not a permanent repair. The patch may eventually come loose, or the tire may develop other problems that require replacement.
