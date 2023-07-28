@@ -1,6 +1,6 @@
 ---
 title: "British Columbia | July 2023"
-date: 2023-06-11
+date: 2023-07-01
 description: "British Columbia | July 2023"
 type: "post"
 image: "images/202307CABritishColumbiaRide/IMG_20230629_123153680_1920x1080x75.jpg"
@@ -42,119 +42,119 @@ The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker w
 </p>
 <p>	
   <a 
-    href=www.shaughnessyscove.com
+    href=https://koa.com/campgrounds/newport-little-diamond/
     target="_blank">	
-    Shaughnessy's Cove Waterfront Dining Summerland, BC - www.shaughnessyscove.com
+    KOA - https://koa.com/campgrounds/newport-little-diamond/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.kellys1894.com/
+    target="_blank">	
+    Kellys - https://www.kellys1894.com/
   </a>
 </p>
 <p>	
     <img 	
       src=	"/images/202307CABritishColumbiaRide/IMG_20230629_130307571_HDR_1920x1080x75.jpg"
-      alt=	"Ellensburg"
+      alt= "Ellensburg"
       loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
-      src=	"/images/202306CABritishColumbiaRide/IMG_20230611_182259879_HDR_1920x1080x75.jpg"
-      alt=	"Highway 97"
+      src=	"/images/202307CABritishColumbiaRide/IMG_20230630_095455065_HDR_1920x1080x75.jpg"
+      alt= "Newport"
       loading= "lazy"
     >	
 </p>
-
 <!-- End ******************** Item01 ******************** End -->	
 <!-- Start ******************** Item02 ******************** Start -->	
 <br>	
 <h4>	
-	Day 2 - Penticton to Nelson | BC-3 | August 12
+	Day 2 - Newport to Ainsworth Hot Springs | 3A | June 29
 </h4>	
 <p>	
   <a 
-    href=https://adventurehotel.ca/
+    href=https://edgewaterlounge.com/
     target="_blank">	
-    Adventure Hotel - https://adventurehotel.ca/
+    Edgewater Breakfast - https://edgewaterlounge.com/
   </a>
 </p>
 <p>	
   <a 
-    href=https://osonegrocoffee.com/
+    href=https://www2.gov.bc.ca/gov/content/transportation/passenger-travel/water-travel/inland-ferries/kootenay-lake-ferry/kootenay-lake-ferry-schedule
     target="_blank">	
-    Black Bear Coffee - https://osonegrocoffee.com/
+    Kootenay Lake Ferry - https://www2.gov.bc.ca
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.ainsworthhotsprings.com/
+    target="_blank">	
+    Ainsworth Hot Springs - https://www.ainsworthhotsprings.com/
   </a>
 </p>
 <p>	
     <img 	
-      src=	"/images/202306CABritishColumbiaRide/IMG_20230612_183201577_1920x1080x75.jpg"
-      alt=	"Nelson BC"
+      src=	"/images/202307CABritishColumbiaRide/IMG_20230630_101048870_1920x1080x75.jpg"
+      alt=  "Edgewater Breakfast"
       loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
-      src=	"/images/202306CABritishColumbiaRide/IMG_20230613_074430784_HDR_1920x1080x75.jpg"
-      alt=	"Nelson BC"
+      src=	"/images/202307CABritishColumbiaRide/IMG_20230630_111516379_HDR_1920x1080x75.jpg"
+      alt= "Selkirk Loop"
       loading= "lazy"
     >	
 </p>
-
+<p>	
+    <img 	
+      src=	"/images/202307CABritishColumbiaRide/IMG_20230630_154641238_HDR_1920x1080x75.jpg"
+      alt= "Kootenay Lake Ferry"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+    <img 	
+      src=	"/images/202307CABritishColumbiaRide/IMG_20230630_173552575_HDR_1920x1080x75.jpg"
+      alt= "Ainsworth Hot Springs"
+      loading= "lazy"
+    >	
+</p>
 <!-- End ******************** Item02 ******************** End -->	
 <!-- Start ******************** Item03 ******************** Start -->	
 <br>	
 <h4>	
-	Day 3 - Nelson to Nelson | BC-6 BC-31 | August 12
+	Day 3 - Ainsworth Hot Springs to Kelowna | 6 | July 1
 </h4>	
 <p>	
   <a 
-    href=https://www.halfwayhotsprings.ca/
+    href=https://frogpeakcafe.com/
     target="_blank">	
-    Dirt Road Hot Springs - https://www.halfwayhotsprings.ca/
+    Frog Peak Breakfast - https://frogpeakcafe.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://hatchingpostbeer.com/
+    target="_blank">	
+    Hatching Post Dinner and Beer - https://hatchingpostbeer.com/
   </a>
 </p>
 <p>	
     <img 	
-      src=	"/images/202306CABritishColumbiaRide/IMG_20230613_112423049_1920x1080x75.jpg"
-      alt=	"Halfway Hot Springs"
+      src=	"/images/202307CABritishColumbiaRide/IMG_20230701_090630026_1920x1080x75.jpg"
+      alt=  "Frog Peak Breakfast"
       loading= "lazy"
     >	
 </p>
 <p>	
     <img 	
-      src=	"/images/202306CABritishColumbiaRide/IMG_20230613_153209484_1920x1080x75.jpg"
-      alt=	"Gerrard BC"
+      src=	"/images/202307CABritishColumbiaRide/IMG_20230701_174802749_BURST000_COVER_TOP_1920x1080x75.jpg"
+      alt=  "Hatching Post Dinner and Beer"
       loading= "lazy"
     >	
 </p>
-<!-- End ******************** Item03 ******************** End -->
-<!-- Start ******************** Item04 ******************** Start -->	
-<br>	
-<h4>	
-	Day 4 - Nelson to Ellensburg | Hwy-25 | August 14
-</h4>	
-<p>
-The effectiveness of patching tubeless motorcycle tires depends on a number of factors, including the size and location of the puncture, the type of patch used, and the skill of the person doing the repair. However, it is important to note that a patch is not a permanent repair. The patch may eventually come loose, or the tire may develop other problems that require replacement.
-
-If you do run out of gas on your motorcycle, coast to a safe location. If you're still moving, try to coast to a safe location where you can pull over.
-</p>
-<p>	
-    <img 	
-      src=	"/images/202306CABritishColumbiaRide/IMG_20230614_075946414_1920x1080x75.jpg"
-      alt=	"Adventure Hotel"
-      loading= "lazy"
-    >	
-</p>
-<p>	
-    <img 	
-      src=	"/images/202306CABritishColumbiaRide/IMG_20230614_121416805_HDR_1920x1080x75.jpg"
-      alt=	"Fruitland"
-      loading= "lazy"
-    >	
-</p>
-<p>	
-    <img 	
-      src=	"/images/202306CABritishColumbiaRide/IMG_20230614_132322389_HDR_1920x1080x75.jpg"
-      alt=	"Two Rivers Resort"
-      loading= "lazy"
-    >	
-</p>
-
-<!-- End ******************** Item04 ******************** End -->
+<!-- End ******************** Item03 ******************** End -->	
