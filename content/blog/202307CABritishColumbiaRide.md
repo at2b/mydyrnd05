@@ -31,8 +31,11 @@ The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker w
 <!-- Start ******************** Item01 ******************** Start -->	
 <br>	
 <h4>	
-	Day 1 - Ellensburg to Newport | I-90 | June 29
+	  Day 1 - Ellensburg to Newport
 </h4>	
+<h5>
+  I-90 | 244 Miles | June 29
+</h5>
 <p>	
   <a 
     href=https://selkirkloop.org/
@@ -72,8 +75,11 @@ The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker w
 <!-- Start ******************** Item02 ******************** Start -->	
 <br>	
 <h4>	
-	Day 2 - Newport to Ainsworth Hot Springs | 3A | June 29
+	Day 2 - Newport to Ainsworth Hot Springs
 </h4>	
+<h5>
+  BC-3A | 172 Miles | June 29
+</h5>
 <p>	
   <a 
     href=https://edgewaterlounge.com/
@@ -127,8 +133,11 @@ The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker w
 <!-- Start ******************** Item03 ******************** Start -->	
 <br>	
 <h4>	
-	Day 3 - Ainsworth Hot Springs to Kelowna | 6 | July 1
+	Day 3 - Ainsworth Hot Springs to Kelowna
 </h4>	
+<h5>
+  BC-6 | 309 Miles | July 1
+</h5>
 <p>	
   <a 
     href=https://frogpeakcafe.com/
@@ -158,3 +167,26 @@ The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker w
     >	
 </p>
 <!-- End ******************** Item03 ******************** End -->	
+<!-- Start ******************** Item04 ******************** Start -->	
+<br>	
+<h4>	
+	Day 4 - Kelowna to Ellensburg
+</h4>	
+<h5>
+  Hwy-97 | 277 Miles | July 2
+</h5>
+<p>	
+  <a 
+    href=https://www.mjcountrykitchen.com/
+    target="_blank">	
+    Breakfast - https://www.mjcountrykitchen.com/
+  </a>
+</p>
+<p>	
+    <img 	
+      src=	"/images/202307CABritishColumbiaRide/IMG_20230702_113706142_1920x1080x75.jpg"
+      alt=  "Country Kitchen Breakfast"
+      loading= "lazy"
+    >	
+</p>
+<!-- End ******************** Item04 ******************** End -->	

@@ -64,6 +64,23 @@ Planning 2024
 </p>
 <p>	
   <a 
+    href=https://www.parks.wa.gov/DocumentCenter/View/1869/Fort-Flagler-State-Park---camping-PDF
+    target="_blank">	
+    <pre>
+        Fort Flagler Camping Map - 
+        https://www.parks.wa.gov/.../Fort-Flagler-State-Park---camping-PDF
+    </pre>
+  </a>
+</p>
+<p>	
+    <img 	
+      src=	"/images/202309USWashingtonPlan/Screenshot 2023-07-30 210825.png"
+      alt= "Fort Flagler Camping Map"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+  <a 
     href=https://www.parks.wa.gov/557/Pacific-Beach
     target="_blank">	
     Pacific Beach - https://www.parks.wa.gov/557/Pacific-Beach
@@ -71,15 +88,32 @@ Planning 2024
 </p>
 <p>	
   <a 
-    href=https://waparks.org/parks/lake-easton/
+    href=https://www.parks.wa.gov/DocumentCenter/View/1919/Pacific-Beach-State-Park-PDF
     target="_blank">	
-    Lake Easton - https://waparks.org/parks/lake-easton/
+    <pre>
+        Pacific Beach Camping Map - 
+        https://www.parks.wa.gov/.../Pacific-Beach-State-Park-PDF
+    </pre>
   </a>
 </p>
 <p>	
     <img 	
-      src=	"/images/202309USWashingtonPlan/IMG_20190711_094833322_HDR_1920x1080x75.jpg"
-      alt= "Ellensburg"
+      src=	"/images/202309USWashingtonPlan/Screenshot 2023-07-30 211403.png"
+      alt= "Pacific Beach Camping Map"
+      loading= "lazy"
+    >	
+</p>
+<p>	
+  <a 
+    href=https://www.parks.wa.gov/532/Lake-Easton
+    target="_blank">	
+    Lake Easton - https://www.parks.wa.gov/532/Lake-Easton
+  </a>
+</p>
+<p>	
+    <img 	
+      src=	"/images/202309USWashingtonPlan/Screenshot 2023-07-30 210324.jpg"
+      alt= "Lake Easton Camping Map"
       loading= "lazy"
     >	
 </p>
