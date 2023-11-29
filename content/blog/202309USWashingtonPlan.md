@@ -66,10 +66,8 @@ Planning 2024
   <a 
     href=https://www.parks.wa.gov/DocumentCenter/View/1869/Fort-Flagler-State-Park---camping-PDF
     target="_blank">	
-    <pre>
-        Fort Flagler Camping Map - 
-        https://www.parks.wa.gov/.../Fort-Flagler-State-Park---camping-PDF
-    </pre>
+    Fort Flagler Camping Map - 
+    https://www.parks.wa.gov/.../Fort-Flagler-State-Park---camping-PDF
   </a>
 </p>
 <p>	
@@ -90,10 +88,8 @@ Planning 2024
   <a 
     href=https://www.parks.wa.gov/DocumentCenter/View/1919/Pacific-Beach-State-Park-PDF
     target="_blank">	
-    <pre>
-        Pacific Beach Camping Map - 
-        https://www.parks.wa.gov/.../Pacific-Beach-State-Park-PDF
-    </pre>
+    Pacific Beach Camping Map - 
+    https://www.parks.wa.gov/.../Pacific-Beach-State-Park-PDF
   </a>
 </p>
 <p>	
