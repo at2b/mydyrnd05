@@ -54,7 +54,13 @@ Planning 2024
     Park Search (Filter) - https://waparks.org/interactive-state-park-map/
   </a>
 </p>
-<br>
+<p>	
+    <img 	
+      src=	"/images/202309USWashingtonPlan/Screenshot 2023-07-30 210825.png"
+      alt= "Fort Flagler Camping Map"
+      loading= "lazy"
+    >	
+</p>
 <p>	
   <a 
     href=https://www.parks.wa.gov/508/Fort-Flagler
@@ -64,16 +70,16 @@ Planning 2024
 </p>
 <p>	
   <a 
-    href=https://www.parks.wa.gov/DocumentCenter/View/1869/Fort-Flagler-State-Park---camping-PDF
+    href=https://parks.wa.gov/sites/default/files/2023-05/Fort%20Flagler%20Campground%20Map%205-30-23.pdf
     target="_blank">	
-    Fort Flagler Camping Map - 
-    https://www.parks.wa.gov/.../Fort-Flagler-State-Park---camping-PDF
+    Fort Flagler Camping Map (116 - 112) |
+    https://www.parks.wa.gov/...
   </a>
 </p>
 <p>	
     <img 	
-      src=	"/images/202309USWashingtonPlan/Screenshot 2023-07-30 210825.png"
-      alt= "Fort Flagler Camping Map"
+      src=	"/images/202309USWashingtonPlan/Screenshot 2023-07-30 211403.png"
+      alt= "Pacific Beach Camping Map"
       loading= "lazy"
     >	
 </p>
@@ -86,24 +92,10 @@ Planning 2024
 </p>
 <p>	
   <a 
-    href=https://www.parks.wa.gov/DocumentCenter/View/1919/Pacific-Beach-State-Park-PDF
+    href=https://parks.wa.gov/sites/default/files/2023-07/Pacific%20Beach%20Overview%20Map.pdf
     target="_blank">	
-    Pacific Beach Camping Map - 
-    https://www.parks.wa.gov/.../Pacific-Beach-State-Park-PDF
-  </a>
-</p>
-<p>	
-    <img 	
-      src=	"/images/202309USWashingtonPlan/Screenshot 2023-07-30 211403.png"
-      alt= "Pacific Beach Camping Map"
-      loading= "lazy"
-    >	
-</p>
-<p>	
-  <a 
-    href=https://www.parks.wa.gov/532/Lake-Easton
-    target="_blank">	
-    Lake Easton - https://www.parks.wa.gov/532/Lake-Easton
+    Pacific Beach Camping Map (7 - 8) |
+    https://www.parks.wa.gov/...
   </a>
 </p>
 <p>	
@@ -112,6 +104,13 @@ Planning 2024
       alt= "Lake Easton Camping Map"
       loading= "lazy"
     >	
+</p>
+<p>	
+  <a 
+    href=https://parks.wa.gov/find-parks/state-parks/lake-easton-state-park
+    target="_blank">	
+    Lake Easton - https://www.parks.wa.gov/...
+  </a>
 </p>
 <!-- End ******************** Item01 ******************** End -->	
 <!-- Start ******************** Item02 ******************** Start -->	
