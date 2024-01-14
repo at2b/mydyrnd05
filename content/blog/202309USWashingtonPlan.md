@@ -1,7 +1,7 @@
 ---
-title: "Washington Planning | September 2023"
+title: "Planning | 2024"
 date: 2023-01-01
-description: "Washington Planning | September 2023"
+description: "Planning | 2024"
 type: "post"
 image: "/images/202309USWashingtonPlan/IMG_20190711_094833322_HDR_1920x1080x75.jpg"
 categories: 
@@ -14,7 +14,7 @@ tags:
 <!-- Start ******************** MyMap01 ******************** Start -->	
 <br>	
 <h4>	
-	Google My Maps | Washington | September 2023 -
+	Google My Maps | Washington | 2024 -
 </h4>	
 <div class="embed-responsive embed-responsive-1by1">	
    <iframe 	
@@ -33,6 +33,10 @@ Planning 2024
 <h4>	
 	Camping - State Park | Road X | Month X
 </h4>	
+<br>
+<h5>	
+	Reservations | Washington -
+</h5>	
 <p>	
   <a 
     href=https://washington.goingtocamp.com/
@@ -61,6 +65,10 @@ Planning 2024
     Park Search (Filter) - https://waparks.org/interactive-state-park-map/
   </a>
 </p>
+<br>
+<h5>	
+	Fort Flagler State Park | Washington -
+</h5>	
 <p>	
     <img 	
       src=	"/images/202309USWashingtonPlan/Screenshot 2023-07-30 210825.png"
@@ -83,6 +91,10 @@ Planning 2024
     https://www.parks.wa.gov/...
   </a>
 </p>
+<br>
+<h5>	
+	Pacific Beach State Park | Washington -
+</h5>	
 <p>	
     <img 	
       src=	"/images/202309USWashingtonPlan/Screenshot 2023-07-30 211403.png"
@@ -105,6 +117,10 @@ Planning 2024
     https://www.parks.wa.gov/...
   </a>
 </p>
+<br>
+<h5>	
+	Lake Easton State Park | Washington -
+</h5>	
 <p>	
     <img 	
       src=	"/images/202309USWashingtonPlan/Screenshot 2023-07-30 210324.jpg"
@@ -123,6 +139,33 @@ Planning 2024
 <!-- Start ******************** Item02 ******************** Start -->	
 <br>	
 <h4>	
+	Trail Run - Run X | Road X | Month X
+</h4>	
+<p>	
+  <a 
+    href=https://ultrasignup.com/
+    target="_blank">	
+    Ultra Signup - https://ultrasignup.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://gobeyondracing.com/
+    target="_blank">	
+    Go Beyond Racing - https://gobeyondracing.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://nwtrailruns.com/
+    target="_blank">	
+    Northwest Trail Runs - https://nwtrailruns.com/
+  </a>
+</p>
+<!-- End ******************** Item02 ******************** End -->	
+<!-- Start ******************** Item03 ******************** Start -->	
+<br>	
+<h4>	
 	Permit Hike - Hike X | Road X | Month X
 </h4>	
 <p>	
@@ -139,7 +182,6 @@ Planning 2024
     Enchantments Lottery - https://www.recreation.gov/permits/233273
   </a>
 </p>
-<br>
 <p>	
   <a 
     href=https://www.goldmyer.org/index.php?m=1
@@ -148,10 +190,127 @@ Planning 2024
   </a>
 </p>
 <p>	
-    <img 	
-      src=	"/images/202309USWashingtonPlan/IMG_20190711_094833322_HDR_1920x1080x75.jpg"
-      alt= "Ellensburg"
-      loading= "lazy"
-    >	
+  <a 
+    href=https://www.fs.usda.gov/pnt/
+    target="_blank">	
+    Pacific Northwest National Scenic Trail  - https://www.fs.usda.gov/pnt/
+  </a>
 </p>
-<!-- End ******************** Item02 ******************** End -->	
+<!-- End ******************** Item03 ******************** End -->	
+<!-- Start ******************** Item04 ******************** Start -->	
+<br>	
+<h4>	
+	Motorcycle Maintenance - R1200GS | 2008 - 2009
+</h4>	
+<br>
+<h5>	
+	Questions
+</h5>
+<p>	
+  <a 
+    href=https://www.advrider.com/f/threads/fuel-strip-fix.844902/page-10#post-32123591
+    target="_blank">	
+    Fuel Strip Fix - https://www.advrider.com/...
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.r1200gs.info/
+    target="_blank">	
+    R1200GS Info - https://www.r1200gs.info/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.snafu.org/pics/r1200gs/
+    target="_blank">	
+    Maintenance Photos - https://www.snafu.org/pics/r1200gs/
+  </a>
+</p>
+<br>
+<h5>	
+	Valve Adjustment
+</h5>	
+<p>	
+  <a 
+    href=https://youtu.be/oxssvKsoTWQ?si=6WES5SpmCyn9VqWC
+    target="_blank">	
+    2004-2009 BMW R1200 Valve Adjustment - https://youtu.be
+  </a>
+</p>
+<br>
+<h5>	
+	Suspension Adjustment
+</h5>
+<p>	
+  <a 
+    href=https://blog.touratech-usa.com/2013/04/17/how-to-bmw-r1200gs-adventure-shock-installation/
+    target="_blank">	
+    Shock Installation - https://blog.touratech-usa.com
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://blog.touratech-usa.com/2013/08/06/how-to-setting-suspension-sag/
+    target="_blank">	
+    Suspension Sag - https://blog.touratech-usa.com
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://blog.touratech-usa.com/2013/08/08/how-to-adjusting-touratech-suspension/
+    target="_blank">	
+    Suspension Adjustment - https://blog.touratech-usa.com
+  </a>
+</p>	
+<br>
+<h5>	
+	Parts
+</h5>
+<p>	
+  <a 
+    href=https://shop.maxbmw.com/fiche/DiagramsMain.aspx?vid=51558
+    target="_blank">	
+    BMW Max (Parts Diagrams)  - https://shop.maxbmw.com/...
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.beemerboneyard.com/
+    target="_blank">	
+    Beemerboneyard - https://www.beemerboneyard.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.rockymountainatvmc.com/
+    target="_blank">	
+    Rocky Mountain - https://www.rockymountainatvmc.com/
+  </a>
+    <p>	
+      Heidenau K60 Scout Front Dual Sport Motorcycle Tire 110/80B-19 (59T) Tube/Tubeless
+      <br>
+      Heidenau K60 Scout Rear Dual Sport Motorcycle Tire 150/70B-17 (69T) Tube/Tubeless
+    </p>
+</p>
+<p>	
+  <a 
+    href=https://www.shopbmwmotorcycles.com/oem-parts/bmw-motorrad-holder-46627671618
+    target="_blank">	
+    BMW Max Micro  - https://www.shopbmwmotorcycles.com/...
+  </a>
+</p>
+<!-- End ******************** Item04 ******************** End -->	
+<!-- Start ******************** Item05 ******************** Start -->	
+<br>	
+<h4>	
+	Relax - Hike X | Road X | Month X
+</h4>	
+<p>	
+  <a 
+    href=https://www.quinnshotsprings.com/
+    target="_blank">	
+    Paradise Hot Springs - https://www.quinnshotsprings.com/
+  </a>
+</p>
+<!-- End ******************** Item05 ******************** End -->	
