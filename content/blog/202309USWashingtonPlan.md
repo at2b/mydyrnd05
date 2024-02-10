@@ -240,8 +240,15 @@ Planning 2024
 </p>
 <br>
 <h5>	
-	Suspension Adjustment
+	Suspension
 </h5>
+<p>	
+  <a 
+    href=https://touratech-usa.com/Touratech-Suspension-Service
+    target="_blank">	
+    Touratech Suspension Service - https://touratech-usa.com
+  </a>
+</p>
 <p>	
   <a 
     href=https://blog.touratech-usa.com/2013/04/17/how-to-bmw-r1200gs-adventure-shock-installation/
@@ -297,9 +304,112 @@ Planning 2024
   <a 
     href=https://www.shopbmwmotorcycles.com/oem-parts/bmw-motorrad-holder-46627671618
     target="_blank">	
-    BMW Max Micro  - https://www.shopbmwmotorcycles.com/...
+    More Parts  - https://www.shopbmwmotorcycles.com/...
   </a>
 </p>
+<h5>	
+	Gear
+</h5>	
+<p>	
+  <a 
+    href=https://blackdogcw.com/
+    target="_blank">	
+    Black Dog - https://blackdogcw.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://moskomoto.com/
+    target="_blank">	
+    Mosko - https://moskomoto.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://touratech-usa.com/
+    target="_blank">	
+    Touratech - https://touratech-usa.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.giantloopmoto.com/
+    target="_blank">	
+    Giant Loop - https://www.giantloopmoto.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.easternbeaver.com/Main/Main.html
+    target="_blank">	
+    Fuse Panel - https://www.easternbeaver.com
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.backroadequipment.com/
+    target="_blank">	
+    Top Box Mount - https://www.backroadequipment.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://iliumworks.com/
+    target="_blank">	
+    Highway Pegs - https://iliumworks.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://www.jesseluggage.com/
+    target="_blank">	
+    Jesse Luggage - https://www.jesseluggage.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://rticoutdoors.com/
+    target="_blank">	
+    RTIC Duffle - https://rticoutdoors.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://builtrightind.com/
+    target="_blank">	
+    Molle Panels - https://builtrightind.com/
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://greenchileadv.com/collections/z-drag-and-recovery/products/gcag-z-drag-recovery-system
+    target="_blank">	
+    Green Chile Z Drag - https://greenchileadv.com/...
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://sistersmoto.com/collections/sbv-tools
+    target="_blank">	
+    Sisters Moto SBV Tools - https://sistersmoto.com/...
+  </a>
+</p>
+<p>	
+  <a style="margin-left: 3em;"
+    href=https://micapeak.com/checklists/R12tools.html
+    target="_blank">	
+    R1200GS Tools Checklist - https://micapeak.com/...
+  </a>
+</p>
+<p>	
+  <a 
+    href=https://mxpowerplay.com/products/tusk-olympus-pannier-bags-196848-p?variant=43443024167075
+    target="_blank">	
+    Tusk Olympus Soft Luggage - https://mxpowerplay.com/...
+  </a>
+</p>
+
+<br>
 <!-- End ******************** Item04 ******************** End -->	
 <!-- Start ******************** Item05 ******************** Start -->	
 <br>	
