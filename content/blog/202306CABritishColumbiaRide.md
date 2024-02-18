@@ -112,7 +112,7 @@ The Selkirk Loop motorcycle ride through Nelson, BC is a must-do for any biker w
 </p>
 <p>	
     <img 	
-      src=	"/images/202306CABritishColumbiaRide/IMG_20230613_112423049_1920x1080x75.jpg"
+      src=	"/images/202306CABritishColumbiaRide/IMG_20230613_112731419_1920x1080x75.jpg"
       alt=	"Halfway Hot Springs"
       loading= "lazy"
     >	
