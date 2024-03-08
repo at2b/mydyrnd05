@@ -119,15 +119,8 @@ Add text here
 	Day 3 - Lolo to Sandpoint | June 20
 </h4>	
 <p>	
-  <a 
-    href=https://moosessaloon.com/
-    target="_blank">	
-    Moose's Saloon - https://moosessaloon.com/
-  </a>
-</p>
-<p>	
     <img 	
-      src=	"/images/201707USMontanaRide/IMG_20190619_115619922_1920x1080x75.jpg"
+      src=	"/images/201906USMontanaRide/IMG_20190620_184447437_1920x1080x75.jpg"
       alt=	"Lolo to Sandpoint"
       loading= "lazy"
     >	
@@ -140,15 +133,15 @@ Add text here
 </h4>	
 <p>	
   <a 
-    href=https://moosessaloon.com/
+    href=https://www.recreation.gov/camping/campgrounds/234064
     target="_blank">	
-    Moose's Saloon - https://moosessaloon.com/
+    Spring Canyon Campground - https://www.recreation.gov/...
   </a>
 </p>
 <p>	
     <img 	
-      src=	"/images/201707USMontanaRide/IMG_20170726_121134758_Custom.jpg"
-      alt=	"Ellensburg to Kalispell"
+      src=	"/images/201906USMontanaRide/IMG_20190621_192637559_HDR_1920x1080x75.jpg"
+      alt=	"Sandpoint to Grand Coulee"
       loading= "lazy"
     >	
 </p>
@@ -157,18 +150,18 @@ Add text here
 <br>	
 <h4>	
 	Day 5 - Grand Coulee to Twisp | June 22
-</h4>	
+</h4>
 <p>	
   <a 
-    href=https://moosessaloon.com/
+    href=https://www.fs.usda.gov/recarea/okawen/recarea/?recid=59107
     target="_blank">	
-    Moose's Saloon - https://moosessaloon.com/
+    Black Pine Lake Campground - https://www.fs.usda.gov/...
   </a>
 </p>
 <p>	
     <img 	
-      src=	"/images/201707USMontanaRide/IMG_20170726_121134758_Custom.jpg"
-      alt=	"Ellensburg to Kalispell"
+      src=	"/images/201906USMontanaRide/IMG_20190622_163819134_1920x1080x75.jpg"
+      alt=	"Grand Coulee to Twisp"
       loading= "lazy"
     >	
 </p>
@@ -180,15 +173,15 @@ Add text here
 </h4>	
 <p>	
   <a 
-    href=https://moosessaloon.com/
+    href=https://www.fs.usda.gov/recarea/okawen/recarea/?recid=59107
     target="_blank">	
-    Moose's Saloon - https://moosessaloon.com/
+    Black Pine Lake Campground - https://www.fs.usda.gov/...
   </a>
 </p>
 <p>	
     <img 	
-      src=	"/images/201707USMontanaRide/IMG_20170726_121134758_Custom.jpg"
-      alt=	"Ellensburg to Kalispell"
+      src=	"/images/201906USMontanaRide/IMG_20190623_100827685_1920x1080x75.jpg"
+      alt=	"Twisp to Ellensburg"
       loading= "lazy"
     >	
 </p>
