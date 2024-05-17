@@ -1,6 +1,6 @@
 ---
 title: "R1200GS | 2008 & 2009"
-date: 2009-01-21
+date: 2009-01-01
 description: "R1200GS | 2008 & 2009"
 type: "motorcycle"
 image: "images/202306CABritishColumbiaRide/IMG_20230612_182501880_HDR_1920x1080x75.jpg"
@@ -8,7 +8,6 @@ categories:
   - "Bike"
 tags:
   - "Motorcycle"
-  - "2009"
 ---
 
 <!-- Start ******************** MyMap01 ******************** Start -->	
@@ -118,6 +117,13 @@ tags:
 </p>
 <p>	
   <a 
+    href=https://effettiadventure.com/en/tag-prodotto/bmw-r-1200-gs-2008-2012/
+    target="_blank">	
+    Graphic Kit - https://effettiadventure.com/...
+  </a>
+</p>
+<p>	
+  <a 
     href=https://www.shopbmwmotorcycles.com/oem-parts/bmw-motorrad-holder-46627671618
     target="_blank">	
     More Parts  - https://www.shopbmwmotorcycles.com/...
@@ -219,11 +225,9 @@ tags:
       </p>
 <p>	
   <a 
-    href=https://mxpowerplay.com/products/tusk-olympus-pannier-bags-196848-p?variant=43443024167075
+    href=https://www.mzstuning.com/
     target="_blank">	
-    Tusk Olympus Soft Luggage - https://mxpowerplay.com/...
+    Controls - https://www.mzstuning.com/...
   </a>
 </p>
-
-<br>
 <!-- End ******************** Item01 ******************** End -->	
